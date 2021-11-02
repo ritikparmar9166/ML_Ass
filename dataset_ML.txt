@@ -1,0 +1,122 @@
+Column1Column2Column3Column4Column5Column6Column7Column8
+    35.5no    yes    no     no     no     no     no
+    35.9no    no     yes    yes    yes    yes    no
+    35.9no    yes    no     no     no     no     no
+     36no     no     yes    yes    yes    yes    no
+     36no     yes    no     no     no     no     no
+     36no     yes    no     no     no     no     no
+    36.2no    no     yes    yes    yes    yes    no
+    36.2no    yes    no     no     no     no     no
+    36.3no    no     yes    yes    yes    yes    no
+    36.6no    no     yes    yes    yes    yes    no
+    36.6no    no     yes    yes    yes    yes    no
+    36.6no    yes    no     no     no     no     no
+    36.6no    yes    no     no     no     no     no
+    36.7no    no     yes    yes    yes    yes    no
+    36.7no    yes    no     no     no     no     no
+    36.7no    yes    no     no     no     no     no
+    36.8no    no     yes    yes    yes    yes    no
+    36.8no    no     yes    yes    yes    yes    no
+    36.9no    no     yes    yes    yes    yes    no
+    36.9no    yes    no     no     no     no     no
+     37no     no     yes    yes    no     yes    no
+     37no     no     yes    yes    no     yes    no
+     37no     yes    no     no     no     no     no
+     37no     no     yes    yes    yes    yes    no
+     37no     no     yes    yes    yes    yes    no
+     37no     no     yes    yes    yes    yes    no
+     37no     no     yes    yes    yes    yes    no
+     37no     no     yes    no     no     yes    no
+    37.1no    yes    no     no     no     no     no
+    37.1no    no     yes    yes    yes    yes    no
+    37.1no    no     yes    no     no     yes    no
+    37.2no    no     yes    yes    no     yes    no
+    37.2no    yes    no     no     no     no     no
+    37.2no    no     yes    no     no     yes    no
+    37.3no    yes    no     no     no     no     no
+    37.3no    no     yes    yes    yes    yes    no
+    37.3no    no     yes    no     no     yes    no
+    37.4no    yes    no     no     no     no     no
+    37.4no    no     yes    no     no     yes    no
+    37.5no    no     yes    yes    no     yes    no
+    37.5no    yes    no     no     no     no     no
+    37.5no    yes    no     no     no     no     no
+    37.5no    no     yes    yes    yes    yes    no
+    37.5no    no     yes    no     no     yes    no
+    37.5no    no     yes    no     no     yes    no
+    37.6no    no     yes    yes    no     yes    no
+    37.6no    no     yes    yes    no     yes    no
+    37.6no    no     yes    yes    yes    yes    no
+    37.7no    no     yes    yes    no     yes    no
+    37.7no    no     yes    yes    no     yes    no
+    37.7no    yes    no     no     no     no     no
+    37.7no    no     yes    no     no     yes    no
+    37.8no    yes    no     no     no     no     no
+    37.8no    no     yes    yes    yes    yes    no
+    37.8no    no     yes    no     no     yes    no
+    37.9no    no     yes    yes    no     yes    no
+    37.9no    no     yes    yes    no     yes    no
+    37.9no    yes    no     no     no     no     no
+    37.9no    no     yes    yes    yes    yes    no
+    37.9no    no     yes    no     no     yes    no
+     38no     yes    yes    no     yes    no     yes
+     38no     yes    yes    no     yes    no     yes
+    38.1no    yes    yes    no     yes    no     yes
+    38.3no    yes    yes    no     yes    no     yes
+    38.5no    yes    yes    no     yes    no     yes
+    38.7no    yes    yes    no     yes    no     yes
+    38.9no    yes    yes    no     yes    no     yes
+     39no     yes    yes    no     yes    no     yes
+    39.4no    yes    yes    no     yes    no     yes
+39.7no    yes   yes   no    yes   no    yes
+ 40yes    yes   yes   yes   yes   yes   yes
+ 40yes    yes   yes   yes   yes   yes   yes
+ 40yes    yes   yes   yes   no    yes   yes
+ 40no     no    no    no    no    no    no
+ 40no     no    no    no    no    no    no
+ 40yes    yes   no    yes   no    no    yes
+ 40yes    yes   no    yes   no    no    yes
+ 40no     yes   yes   no    yes   no    yes
+40.1yes   yes   yes   yes   no    yes   yes
+40.2yes   yes   yes   yes   yes   yes   yes
+40.2no    no    no    no    no    no    no
+40.2yes   yes   no    yes   no    no    yes
+40.3no    yes   yes   no    yes   no    yes
+40.4yes   yes   yes   yes   yes   yes   yes
+40.4yes   yes   yes   yes   no    yes   yes
+40.4yes   yes   yes   yes   no    yes   yes
+40.4no    no    no    no    no    no    no
+40.4yes   yes   no    yes   no    no    yes
+40.5yes   yes   yes   yes   no    yes   yes
+40.6yes   yes   yes   yes   yes   yes   yes
+40.6no    no    no    no    no    no    no
+40.6yes   yes   no    yes   no    no    yes
+40.7yes   yes   yes   yes   yes   yes   yes
+40.7yes   yes   yes   yes   no    yes   yes
+40.7no    no    no    no    no    no    no
+40.7yes   yes   no    yes   no    no    yes
+40.7no    yes   yes   no    yes   no    yes
+40.8no    yes   yes   no    yes   no    yes
+40.9yes   yes   yes   yes   no    yes   yes
+40.9yes   yes   yes   yes   no    yes   yes
+40.9no    yes   yes   no    yes   no    yes
+ 41yes    yes   yes   yes   yes   yes   yes
+ 41no     no    no    no    no    no    no
+ 41yes    yes   no    yes   no    no    yes
+ 41no     yes   yes   no    yes   no    yes
+41.1yes   yes   yes   yes   yes   yes   yes
+41.1yes   yes   yes   yes   no    yes   yes
+41.1no    no    no    no    no    no    no
+41.1yes   yes   no    yes   no    no    yes
+41.1no    yes   yes   no    yes   no    yes
+41.2yes   yes   yes   yes   yes   yes   yes
+41.2no    no    no    no    no    no    no
+41.2yes   yes   no    yes   no    no    yes
+41.2no    yes   yes   no    yes   no    yes
+41.3yes   yes   yes   yes   no    yes   yes
+41.4no    yes   yes   no    yes   no    yes
+41.5no    no    no    no    no    no    no
+41.5yes   yes   no    yes   no    no    yes
+41.5no    yes   yes   no    yes   no    yes
+41.5no    yes   yes   no    yes   no    yes
+
